@@ -1,0 +1,14 @@
+{
+  "spatial_transcriptomics.fastq_tar": "/path/to/your/fastq_files.tar.gz",
+  "spatial_transcriptomics.ref_tar": "/path/to/your/reference_genome.tar.gz",
+  "spatial_transcriptomics.sample_id": "sample123",
+  "spatial_transcriptomics.spacename": "tissue_section1",
+  "spatial_transcriptomics.memory_count": 32,
+  "spatial_transcriptomics.cpu_count": 8,
+  "spatial_transcriptomics.storage_count": 100,
+  "spatial_transcriptomics.nosecondary": false,
+  "spatial_transcriptomics.localcores": 4,
+  "spatial_transcriptomics.localmem": "16G",
+  "spatial_transcriptomics.localvmem": "16G"
+}
+
